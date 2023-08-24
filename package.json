@@ -5,7 +5,7 @@
   "source": "src/index.html",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build"
+    "build": "rm -rf dist && parcel build && cp src/static/* dist/"
   },
   "repository": {
     "type": "git",
