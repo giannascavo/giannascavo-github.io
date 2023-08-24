@@ -11,8 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/giannascavo/giannascavo.github.io.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "private": true,
   "devDependencies": {
